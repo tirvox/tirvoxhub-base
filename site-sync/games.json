@@ -3,8 +3,8 @@
     "id": "dingus",
     "name": "Dingus",
     "desc": "Automated features, item farming, and speed enhancements.",
-    "status": "Active & Updated",
-    "statusClass": "status-active"
+    "status": "Testing",
+    "statusClass": "status-testing"
   },
   {
     "id": "buildboat",
