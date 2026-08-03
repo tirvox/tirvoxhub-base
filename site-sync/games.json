@@ -1,0 +1,30 @@
+[
+  {
+    "id": "dingus",
+    "name": "Dingus",
+    "desc": "Automated features, item farming, and speed enhancements.",
+    "status": "Active & Updated",
+    "statusClass": "status-active"
+  },
+  {
+    "id": "buildboat",
+    "name": "Build A Boat For Treasure",
+    "desc": "Auto-farm, fast gold generation, and ultimate tool configurations.",
+    "status": "Active & Updated",
+    "statusClass": "status-active"
+  },
+  {
+    "id": "genderrng",
+    "name": "Gender RNG",
+    "desc": "Auto roll systems, fast animations, and luck boosters.",
+    "status": "Under Maintenance",
+    "statusClass": "status-maintenance"
+  },
+  {
+    "id": "mineamountain",
+    "name": "Mine a Mountain",
+    "desc": "Advanced mining automation, crystal ESP, and boulder farming.",
+    "status": "Active & Updated",
+    "statusClass": "status-active"
+  }
+]
