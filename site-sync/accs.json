@@ -4,7 +4,7 @@
     "admin": false
   },
   "admin": {
-    "role": "user",
-    "admin": false
+    "role": "admin",
+    "admin": true
   }
 }
