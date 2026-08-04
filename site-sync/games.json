@@ -28,10 +28,10 @@
     "statusClass": "status-active"
   },
   {
-  "id": "parkourepidemic",
-  "name": "parkour epidemic",
-  "desc": "Infinite slide, dash boost, wallboost, fly, and quest automation.",
-  "status": "Active & Updated",
-  "statusClass": "status-active"
+    "id": "parkourepidemic",
+    "name": "parkour epidemic",
+    "desc": "Infinite slide, dash boost, wallboost, fly, and quest automation.",
+    "status": "Patched",
+    "statusClass": "status-patched"
   }
 ]
