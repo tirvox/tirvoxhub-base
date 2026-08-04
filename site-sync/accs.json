@@ -1,0 +1,10 @@
+{
+  "67nagubator228": {
+    "role": "user",
+    "admin": false
+  },
+  "admin": {
+    "role": "user",
+    "admin": false
+  }
+}
