@@ -1,7 +1,7 @@
 {
   "67nagubator228": {
-    "role": "user",
-    "admin": false
+    "role": "admin",
+    "admin": true
   },
   "admin": {
     "role": "admin",
