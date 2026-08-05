@@ -6,5 +6,9 @@
   "admin": {
     "role": "admin",
     "admin": true
+  },
+  "Does_Ser": {
+    "role": "user",
+    "admin": false
   }
 }
